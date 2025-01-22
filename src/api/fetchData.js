@@ -16,6 +16,7 @@ export const fetchData = async (page) => {
     // const data = await res.json();
     // const data = await fetch("/data.json");
     // console.log(data);
+    // Here I have faced cors error and tried to resolve it, but it doesn't work i made a JSON file.
     
     const products = data.products;
 
