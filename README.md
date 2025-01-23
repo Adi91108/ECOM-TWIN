@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-
+## Note -  Didn't have the proper mic setup apologies for low voice.
 
 https://github.com/user-attachments/assets/60df812e-2b6a-41e4-ac0b-08c8e3f7c42b
 
